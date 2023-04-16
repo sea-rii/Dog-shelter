@@ -69,7 +69,7 @@ This method will start by showing the title of the list. The method will then di
    - Main menu choice only values from 0 to 5.
    - Indexes (assign/modify, change dog) are only values for valid indexes (of real data, not of the array's length).
    - Weights are only values between 0.00 and 100.00.
-   - 
+  
 For the output file, you have to upload it as it would be with the following input:
 8 5 8 2 5 38.2 2 1 900 90.0 2 2 55.5 5 2 3 46.38 2 45 7 125.5 12.55 1 6 9 5 3 9 15 7 7 5 5 2 7 9.8 5 1 9 1 3 7 1 5 4 5 1 25 2 4 56.65 1 5 0
 Note that every time the user inputs a value, the console will not show a line change when exported to a text file. However, if you open the same text file in DrJava you will see it correctly.
