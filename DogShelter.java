@@ -170,19 +170,6 @@ public class DogShelter{
     for (int i=0; i<gShelterSize; i++){
       System.out.println("Dog[" + i + "] : " + gWeight[i]);
     }
-  }
-                         
-    
-    
-    
-    
-    
-    
- 
-    
-    
-    
-    
-    
+  }   
      
 }
